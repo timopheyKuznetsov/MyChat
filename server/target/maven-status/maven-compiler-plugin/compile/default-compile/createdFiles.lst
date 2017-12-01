@@ -1,0 +1,10 @@
+com\chat\pojo\LoginRequest.class
+com\chat\service\BroadcastService.class
+com\chat\websocket\handler\ReceptionWebSocketHandler.class
+com\chat\enums\MessageType.class
+com\chat\pojo\User.class
+com\chat\config\DispatcherServletInitializer.class
+com\chat\pojo\Message.class
+com\chat\controller\AppController.class
+com\chat\Application.class
+com\chat\config\ApplicationConfig.class
